@@ -39,3 +39,12 @@
 
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=yuvrajrajarawal869&show_icons=true alt=yuvrajrajarawal869 /> </p>
+
+        <div class="git">
+          <h1 >GitHub Analytics</h1>
+          <div class="gitdiv">
+            <img width="50%px" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvrajrajarawal869&theme=buefy&show_icons=true" />
+            <img width="50%px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrajarawal869&theme=buefy&layout=compact" />
+          </div>
+        </div>
+      
