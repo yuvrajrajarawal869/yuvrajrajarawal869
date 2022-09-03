@@ -38,7 +38,7 @@
   </p>
 
  <h1 >GitHub Analytics</h1>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=yuvrajrajarawal869&show_icons=true alt=yuvrajrajarawal869 /> </p>
+
 <p align="center"> <img width="50%px" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvrajrajarawal869&theme=buefy&show_icons=true" /> </p>
 
 <p align="center">
