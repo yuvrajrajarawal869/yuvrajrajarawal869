@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/yuvrajrajarawal869/github-profile-readme-generator)
 
-- 💬 Ask me about **Spring Boot, java and mySql**
+- 💬 Ask me about **Spring Boot, java and mySql,javascript, HTML, CSS, SQL**
 
 - 📫 Reach me at **yuvrajrajarawal869@gmail.com**
 
