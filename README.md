@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [yuvrajrajarawal869](https://yuvrajrajarawal869.github.io)
 
-- 👨‍💻 All of my portfolio are available at [yuvrajrajarawal869](https://yuvrajrajarawal.netlify.app/)
+- 👨‍💻 All of my portfolio are available at [yuvrajrajarawal869](https://yuvrajrajarawal869.github.io/)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
