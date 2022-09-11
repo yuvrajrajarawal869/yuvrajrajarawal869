@@ -39,7 +39,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
      <a href="https://docs.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16" target="_blank"> <img src="https://cdn.vectorstock.com/i/1000x1000/77/50/sql-database-icon-logo-design-ui-or-ux-app-vector-17507750.webp" alt="SQL" width="40" height="40"/> </a>
-     <a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="40" height="40"/> </a>
+     <a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8h-I3zek7i0ZPOdhBOQpfIK_HexKXeHpzsKvg6ioT&s" alt="Spring" width="40" height="40"/> </a>
   </p>
 
  <h1 >GitHub Analytics</h1>
