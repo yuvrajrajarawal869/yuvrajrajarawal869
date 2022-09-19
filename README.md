@@ -12,9 +12,11 @@
 
 - 📫 Reach me at **yuvrajrajarawal869@gmail.com**
 
-- 👨‍💻 All of my projects are available at [yuvrajrajarawal869](https://yuvrajrajarawal869.github.io)
+- 👨‍💻 All of my projects are available at [project](https://yuvrajrajarawal869.github.io)
 
-- 👨‍💻 All of my portfolio are available at [yuvrajrajarawal869](https://yuvrajrajarawal869.github.io/)
+- 👨‍💻 All of my portfolio are available at [portfolio](https://yuvrajrajarawal869.github.io/)
+
+- 👨‍ All of my portfolio are available at [Resume](https://https://drive.google.com/file/d/1iVDZvgb8geIeHvUZwS_Z2DlCLSOnoWe2/view?usp=sharing)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
