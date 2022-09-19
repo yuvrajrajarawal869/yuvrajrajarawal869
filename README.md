@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/YuvrajRajarawal" target="blank"><img src="https://img.shields.io/twitter/follow/YuvrajRajarawal?logo=twitter&style=for-the-badge" alt="YuvrajRajarawal" /></a> </p>
 
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/yuvrajrajarawal869/github-profile-readme-generator)
+- 🤔 I’m curently learing Java, Spring Boot.
 
 - 💬 Ask me about **Spring Boot, java and mySql,javascript, HTML, CSS, SQL**
 
