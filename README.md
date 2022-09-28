@@ -45,6 +45,6 @@
   </p>
 
  <h1 >GitHub Analytics</h1>
-<p align="center"> <img width="80%px" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvrajrajarawal869&theme=buefy&show_icons=true" /> </p>
-<p align="center"><img width="80%px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrajarawal869&theme=buefy&layout=compact"/></p>     
-   <p align="center"><img  width="80%px" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajrajarawal869&" alt="yuvrajrajarawal869" /></p>
+<p align="center"> <img width="70%px" src="https://github-readme-stats.vercel.app/api?username=yuvrajrajarawal869&theme=buefy&show_icons=true" /> </p>
+<p align="center"><img width="70%px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrajarawal869&theme=buefy&layout=compact"/></p>     
+   <p align="center"><img  width="70%px"  src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajrajarawal869&" alt="yuvrajrajarawal869" /></p>
